@@ -657,7 +657,7 @@ body{
     #crowserchild img{
         height: auto;
         width: 100%;
-        border: solid 10px grey;
+/*         border: solid 10px grey; */
     }
     #video1,#video2{
         width: 100%;
@@ -733,7 +733,7 @@ body{
     }
     .mainimage img{
         width: 100%;
-        opacity: 0.2;
+/*         opacity: 0.2; */
         /* display: none; */
     }   
     .overimage{
