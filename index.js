@@ -1,10 +1,10 @@
 function loading(){
-    setTimeout(logo,1000)
-    function logo(){
-        document.getElementById('img1').style.display = 'none';
-        document.getElementById('mainsection').style.display = 'block';
-        document.getElementById('mainsection').style.background = 'white';
-    }  
+    // setTimeout(logo,1000)
+    // function logo(){
+    //     document.getElementById('img1').style.display = 'none';
+    //     document.getElementById('mainsection').style.display = 'block';
+    //     document.getElementById('mainsection').style.background = 'white';
+    // }  
 }
 function loader(){
     setTimeout(logo,500)
