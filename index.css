@@ -689,6 +689,7 @@ body{
 }
 @media screen and (max-width: 800px) {
     #img1{
+        display: none;
         /* margin-top: 70%; */
         height: 1000px;
         width: 100%;
@@ -874,7 +875,7 @@ body{
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: -35%;
+        margin-top: -32%;
         gap: 0px;
     }
     .callus img{
