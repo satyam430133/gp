@@ -67,7 +67,7 @@ body{
 .imagebackground{
     height: 712px;
     width: 100%;
-    background: rgba(36, 106, 186, 0.5);
+    background: rgba(36, 106, 186, 0.2);
     margin-top: -716px;
     z-index: 2;
     position: absolute;
